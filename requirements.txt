@@ -286,6 +286,6 @@ zipp==3.4.1
     # via
     #   catalogue
     #   importlib-metadata
-
+obsei==0.0.7
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
