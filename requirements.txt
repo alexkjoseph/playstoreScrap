@@ -1,6 +1,5 @@
 app-store-reviews-reader==1.0
 APScheduler==3.7.0
-apturl==0.5.2
 atlassian-python-api==3.8.0
 bcrypt==3.1.7
 beautifulsoup4==4.9.3
